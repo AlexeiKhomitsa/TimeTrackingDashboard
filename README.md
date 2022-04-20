@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут 
 
-[TimeTracking](https://alexeikhomitsa.github.io/TimeTrackingDashboard/)
+[TimeTracking](https://time-tracking-dashboard-l2dzftuwn-akhomitsa18-gmailcom.vercel.app/)
